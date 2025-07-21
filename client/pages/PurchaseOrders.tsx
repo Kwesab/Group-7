@@ -53,7 +53,7 @@ const PurchaseOrders = () => {
         { name: "iPhone 15 Pro", quantity: 50, price: 750 },
         { name: "MacBook Pro M3", quantity: 20, price: 1500 },
       ],
-      total: 67500,
+      total: 2,
       status: "pending",
       created: "2024-01-15",
       expectedDelivery: "2024-01-25",
